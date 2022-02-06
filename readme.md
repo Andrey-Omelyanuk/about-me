@@ -11,17 +11,16 @@
 - UpWork: https://www.upwork.com/o/profiles/users/_~01b1cfb09d499e00cb/
 
 ###  I specialize in: 
-    Python, Django, Django REST Framework, FastAPI, SQLAlchemy, Celery, SQL, PostgreSQL,
-    Ansible, Docker, JavaScript, TypeScript, Vue, React, Angular, RxJs, MobX.
+> Python, Django, Django REST Framework, FastAPI, SQLAlchemy, Celery, SQL, PostgreSQL,Ansible, Docker, JavaScript, TypeScript, Vue, React, Angular, RxJs, MobX.
 
 ### About 
-    I am an experienced senior software developer passionate about automating the world.
-    I enjoy working on projects that allow people to be more productive. 
-    I have experience in leading engineering teams as well as developing software
-    independently as an individual contributor. 
-    I have been working remotely since January 2013 (over 9 years).
-    I have been working through Upwork since Oct 2014 (over 7 years) and you can see feedback from my clients.
-    Also, you can see some smaller projects there that I did not mention here. 
+I am an experienced senior software developer passionate about automating the world.
+I enjoy working on projects that allow people to be more productive. 
+I have experience in leading engineering teams as well as developing software
+independently as an individual contributor. 
+I have been working remotely since January 2013 (over 9 years).
+I have been working through Upwork since Oct 2014 (over 7 years) and you can see feedback from my clients.
+Also, you can see some smaller projects there that I did not mention here. 
 
 
 # Experience
@@ -29,6 +28,7 @@
 ## Virtual Clarity 
 https://www.virtualclarity.com/
 
+### Senior / Tech Lead Full Stack Developer
 June 2019 – Dec 2021 (2.5 years)
 
 ### Position
@@ -39,7 +39,7 @@ June 2019 – Dec 2021 (2.5 years)
     5-7 developers.
 
 ### Tech stack
-    Python, Django, SqlAlchemy, MSSQL, AWS, Docker, Typescript, Angular, RxJs, MobX, AgGrid.
+> Python, Django, SqlAlchemy, MSSQL, AWS, Docker, Typescript, Angular, RxJs, MobX, AgGrid.
 
 ### Responsibilities and Achievements
 - sorry, I have a strong NDA and I cannot share more details about what I did.
@@ -48,23 +48,22 @@ June 2019 – Dec 2021 (2.5 years)
 
 ## Zig 
 https://zigtheapp.xyz
-
+Senior / Team Lead Full Stack Developer
 Sep 2015 – May 2019 (3.7 years)
 
     The mix of task management and freelance platform.
     The project was 80% completed before I left. 
-    The site is not available now but design still available [here](https://www.figma.com/file/PE70acTNcIgI1flYCqQUl4KQ/Zig-UI?node-id=791%3A10)
+    The site is not available now but the design is still available [here](https://www.figma.com/file/PE70acTNcIgI1flYCqQUl4KQ/Zig-UI?node-id=791%3A10)
 
 ### Position
     Jun 2016 – May 2019 (2.8 years) Team Lead   Full Stack Developer  
     Sep 2015 – Jun 2016 (0.9 years) Senior      Full Stack Developer
 
 ### Team
-    3-5 developers, 1 web-designer.
+3-5 developers, 1 web-designer.
 
 ### Tech stack
-    Python, Django, Django REST Framework, Celery, PostgreSQL, HTML, Pug, CSS, Stylus, 
-    JavaScript, TypeScript, Webpack, Angular, Vue.js, JSData, RxJS, Cordova, Ansible.
+> Python, Django, Django REST Framework, Celery, PostgreSQL, HTML, Pug, CSS, Stylus, JavaScript, TypeScript, Webpack, Angular, Vue.js, JSData, RxJS, Cordova, Ansible.
 
 ### Responsibilities and Achievements
 - led the team and the project
@@ -101,19 +100,14 @@ Sep 2015 – May 2019 (3.7 years)
 ## Nord-Soft   
 http://nord-soft.com/
 
+### Senior Full Stack Developer
 Jan 2013 - May 2015 (2.4 years)
 
-    The outsource company.
-
-### Position
-    Jan 2013 - May 2015 (2.4 years) Senior Full Stack Developer
-
 ### Team
-    1-7 developers.
+1-7 developers.
 
 ### Tech stack: 
-    Python, Django, Django REST Framework, Celery, PostgreSQL, Redis
-    HTML, CSS, JavaScript, jQuery, Angular, Git, Mercurial, Bootstrap.
+> Python, Django, Django REST Framework, Celery, PostgreSQL, Redis, HTML, CSS, JavaScript, jQuery, Angular, Git, Mercurial, Bootstrap.
 
 ### Responsibilities and Achievements
 - developed a lot of small/middle web projects 
@@ -139,21 +133,20 @@ Jan 2013 - May 2015 (2.4 years)
 
 
 ## System Technologies 
-https://www.st.by/
+https://www.st.by
 
+### Junior/Middle Software Developer
 Oct 2008 - Dec 2012 (4.2 years) 
-
-    Developing banking software.
 
 ### Position
     Jan 2010 - Dec 2012 (  3 years)   Middle Software Developer  
     Oct 2008 - Dec 2010 (1.2 years)   Junior Software Developer
 
 ### Team
-    6-10 developers, 6 testers, 3 business analytics.
+6-10 developers, 6 testers, 3 business analytics.
 
-### Tech stack: 
-    C++, MFC, T-SQL (Sybase).
+### Tech stack:
+C++, MFC, T-SQL (Sybase)
 
 ### Responsibilities and Achievements
 - developed reports for business (created SQL procedures and UI using C++)
