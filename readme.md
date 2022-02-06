@@ -10,9 +10,7 @@
 - LinkedIn: https://www.linkedin.com/in/andrey-omelyanuk-36904154/
 - UpWork: https://www.upwork.com/o/profiles/users/_~01b1cfb09d499e00cb/
 
-I specialize in: 
-
-**Python, Django, Django REST Framework, FastAPI, SQLAlchemy, Celery, SQL, PostgreSQL,Ansible, Docker, JavaScript, TypeScript, Vue, React, Angular, RxJs, MobX**
+**Python, Django, Django REST Framework, FastAPI, SQLAlchemy, Celery, SQL, PostgreSQL, Ansible, Docker, JavaScript, TypeScript, Vue, React, Angular, RxJs, MobX**
 
 ### About 
 I am an experienced senior software developer passionate about automating the world.
@@ -29,13 +27,12 @@ Also, you can see some smaller projects there that I did not mention here.
 ## Virtual Clarity 
 https://www.virtualclarity.com/
 
-**Senior / Tech Lead Full Stack Developer**
+**Senior / Tech Lead Full Stack Developer**  
 June 2019 – Dec 2021 (2.5 years)
 
     Jun 2021 - Dec 2021 (0.5 years) Tech Lead Frontend Developer 
     Jun 2019 - Jun 2021 (  2 years) Senior Full Stack Developer
 
-Tech stack:
 **Python, Django, SqlAlchemy, MSSQL, AWS, Docker, Typescript, Angular, RxJs, MobX, AgGrid**
 
 ### Team
@@ -53,17 +50,17 @@ Zig is startup, its mix of task management and freelance platform.
 The project was 80% completed before I left. 
 The site is not available now but the design is still available [here](https://www.figma.com/file/PE70acTNcIgI1flYCqQUl4KQ/Zig-UI?node-id=791%3A10)
 
-### Senior / Team Lead Full Stack Developer
+**Senior / Team Lead Full Stack Developer**  
 Sep 2015 – May 2019 (3.7 years)
 
     Jun 2016 – May 2019 (2.8 years) Team Lead   Full Stack Developer  
     Sep 2015 – Jun 2016 (0.9 years) Senior      Full Stack Developer
 
+**Python, Django, Django REST Framework, Celery, PostgreSQL, HTML, Pug, CSS, Stylus, JavaScript, TypeScript, Webpack, Angular, Vue.js, JSData, RxJS, Cordova, Ansible**
+
 ### Team
     3-5 developers, 1 web-designer
 
-### Tech stack
-    Python, Django, Django REST Framework, Celery, PostgreSQL, HTML, Pug, CSS, Stylus, JavaScript, TypeScript, Webpack, Angular, Vue.js, JSData, RxJS, Cordova, Ansible.
 
 ### Responsibilities and Achievements
 - led the team and the project
@@ -100,15 +97,13 @@ Sep 2015 – May 2019 (3.7 years)
 ## Nord-Soft   
 http://nord-soft.com/
 
-### Senior Full Stack Developer
+**Senior Full Stack Developer**  
 Jan 2013 - May 2015 (2.4 years)
+
+**Python, Django, Django REST Framework, Celery, PostgreSQL, Redis, HTML, CSS, JavaScript, jQuery, Angular, Git, Mercurial, Bootstrap**
 
 ### Team
     1-7 developers
-
-### Tech stack: 
-**Python, Django, Django REST Framework, Celery, PostgreSQL, Redis, HTML, CSS, JavaScript, jQuery, Angular, Git, Mercurial, Bootstrap**
-
 
 ### Responsibilities and Achievements
 - developed a lot of small/middle web projects 
@@ -136,17 +131,16 @@ Jan 2013 - May 2015 (2.4 years)
 ## System Technologies 
 https://www.st.by
 
-### Junior/Middle Software Developer
+**Junior/Middle Software Developer**  
 Oct 2008 - Dec 2012 (4.2 years) 
 
     Jan 2010 - Dec 2012 (  3 years)   Middle Software Developer  
     Oct 2008 - Dec 2010 (1.2 years)   Junior Software Developer
 
+**C++, MFC, T-SQL (Sybase)**
+
 ### Team
     6-10 developers, 6 testers, 3 business analytics.
-
-### Tech stack:
-    C++, MFC, T-SQL (Sybase)
 
 ### Responsibilities and Achievements
 - developed reports for business (created SQL procedures and UI using C++)
