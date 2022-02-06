@@ -39,7 +39,7 @@ June 2019 – Dec 2021 (2.5 years)
     5-7 developers
 
 ### Responsibilities and Achievements
-- sorry, NDA does not allow me to share more details about what I did.
+- NDA does not allow me to share more details about what I did.
     If you are ready to give me an offer but hesitate then I can give you contacts on LinkedIn of ex-teammates that still work in Virtual Clarity.
 
 
