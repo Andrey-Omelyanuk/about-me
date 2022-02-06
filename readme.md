@@ -10,7 +10,8 @@
 - LinkedIn: https://www.linkedin.com/in/andrey-omelyanuk-36904154/
 - UpWork: https://www.upwork.com/o/profiles/users/_~01b1cfb09d499e00cb/
 
-###  I specialize in: 
+I specialize in: 
+
 **Python, Django, Django REST Framework, FastAPI, SQLAlchemy, Celery, SQL, PostgreSQL,Ansible, Docker, JavaScript, TypeScript, Vue, React, Angular, RxJs, MobX**
 
 ### About 
@@ -34,11 +35,11 @@ June 2019 – Dec 2021 (2.5 years)
     Jun 2021 - Dec 2021 (0.5 years) Tech Lead Frontend Developer 
     Jun 2019 - Jun 2021 (  2 years) Senior Full Stack Developer
 
+Tech stack:
+**Python, Django, SqlAlchemy, MSSQL, AWS, Docker, Typescript, Angular, RxJs, MobX, AgGrid**
+
 ### Team
     5-7 developers
-
-### Tech stack
-**Python, Django, SqlAlchemy, MSSQL, AWS, Docker, Typescript, Angular, RxJs, MobX, AgGrid**
 
 ### Responsibilities and Achievements
 - sorry, I have a strong NDA and I cannot share more details about what I did.
