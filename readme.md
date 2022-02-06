@@ -36,10 +36,10 @@ June 2019 – Dec 2021 (2.5 years)
     Jun 2019 - Jun 2021 (  2 years) Senior Full Stack Developer
 
 ### Team
-    5-7 developers.
+    5-7 developers
 
 ### Tech stack
-> Python, Django, SqlAlchemy, MSSQL, AWS, Docker, Typescript, Angular, RxJs, MobX, AgGrid.
+    Python, Django, SqlAlchemy, MSSQL, AWS, Docker, Typescript, Angular, RxJs, MobX, AgGrid.
 
 ### Responsibilities and Achievements
 - sorry, I have a strong NDA and I cannot share more details about what I did.
@@ -48,22 +48,23 @@ June 2019 – Dec 2021 (2.5 years)
 
 ## Zig 
 https://zigtheapp.xyz
-Senior / Team Lead Full Stack Developer
-Sep 2015 – May 2019 (3.7 years)
 
-    The mix of task management and freelance platform.
-    The project was 80% completed before I left. 
-    The site is not available now but the design is still available [here](https://www.figma.com/file/PE70acTNcIgI1flYCqQUl4KQ/Zig-UI?node-id=791%3A10)
+Zig is startup, its mix of task management and freelance platform.
+The project was 80% completed before I left. 
+The site is not available now but the design is still available [here](https://www.figma.com/file/PE70acTNcIgI1flYCqQUl4KQ/Zig-UI?node-id=791%3A10)
+
+### Senior / Team Lead Full Stack Developer
+Sep 2015 – May 2019 (3.7 years)
 
 ### Position
     Jun 2016 – May 2019 (2.8 years) Team Lead   Full Stack Developer  
     Sep 2015 – Jun 2016 (0.9 years) Senior      Full Stack Developer
 
 ### Team
-3-5 developers, 1 web-designer.
+    3-5 developers, 1 web-designer
 
 ### Tech stack
-> Python, Django, Django REST Framework, Celery, PostgreSQL, HTML, Pug, CSS, Stylus, JavaScript, TypeScript, Webpack, Angular, Vue.js, JSData, RxJS, Cordova, Ansible.
+    Python, Django, Django REST Framework, Celery, PostgreSQL, HTML, Pug, CSS, Stylus, JavaScript, TypeScript, Webpack, Angular, Vue.js, JSData, RxJS, Cordova, Ansible.
 
 ### Responsibilities and Achievements
 - led the team and the project
@@ -104,10 +105,10 @@ http://nord-soft.com/
 Jan 2013 - May 2015 (2.4 years)
 
 ### Team
-1-7 developers.
+    1-7 developers
 
 ### Tech stack: 
-> Python, Django, Django REST Framework, Celery, PostgreSQL, Redis, HTML, CSS, JavaScript, jQuery, Angular, Git, Mercurial, Bootstrap.
+    Python, Django, Django REST Framework, Celery, PostgreSQL, Redis, HTML, CSS, JavaScript, jQuery, Angular, Git, Mercurial, Bootstrap.
 
 ### Responsibilities and Achievements
 - developed a lot of small/middle web projects 
@@ -143,10 +144,10 @@ Oct 2008 - Dec 2012 (4.2 years)
     Oct 2008 - Dec 2010 (1.2 years)   Junior Software Developer
 
 ### Team
-6-10 developers, 6 testers, 3 business analytics.
+    6-10 developers, 6 testers, 3 business analytics.
 
 ### Tech stack:
-C++, MFC, T-SQL (Sybase)
+    C++, MFC, T-SQL (Sybase)
 
 ### Responsibilities and Achievements
 - developed reports for business (created SQL procedures and UI using C++)
