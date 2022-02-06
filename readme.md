@@ -11,7 +11,7 @@
 - UpWork: https://www.upwork.com/o/profiles/users/_~01b1cfb09d499e00cb/
 
 ###  I specialize in: 
-    Python, Django, Django REST Framework, FastAPI, SQLAlchemy, Celery, SQL, PostgreSQL,Ansible, Docker, JavaScript, TypeScript, Vue, React, Angular, RxJs, MobX.
+**Python, Django, Django REST Framework, FastAPI, SQLAlchemy, Celery, SQL, PostgreSQL,Ansible, Docker, JavaScript, TypeScript, Vue, React, Angular, RxJs, MobX**
 
 ### About 
 I am an experienced senior software developer passionate about automating the world.
@@ -28,7 +28,7 @@ Also, you can see some smaller projects there that I did not mention here.
 ## Virtual Clarity 
 https://www.virtualclarity.com/
 
-### Senior / Tech Lead Full Stack Developer
+**Senior / Tech Lead Full Stack Developer**
 June 2019 – Dec 2021 (2.5 years)
 
     Jun 2021 - Dec 2021 (0.5 years) Tech Lead Frontend Developer 
@@ -38,7 +38,7 @@ June 2019 – Dec 2021 (2.5 years)
     5-7 developers
 
 ### Tech stack
-    Python, Django, SqlAlchemy, MSSQL, AWS, Docker, Typescript, Angular, RxJs, MobX, AgGrid.
+**Python, Django, SqlAlchemy, MSSQL, AWS, Docker, Typescript, Angular, RxJs, MobX, AgGrid**
 
 ### Responsibilities and Achievements
 - sorry, I have a strong NDA and I cannot share more details about what I did.
@@ -106,7 +106,8 @@ Jan 2013 - May 2015 (2.4 years)
     1-7 developers
 
 ### Tech stack: 
-    Python, Django, Django REST Framework, Celery, PostgreSQL, Redis, HTML, CSS, JavaScript, jQuery, Angular, Git, Mercurial, Bootstrap.
+**Python, Django, Django REST Framework, Celery, PostgreSQL, Redis, HTML, CSS, JavaScript, jQuery, Angular, Git, Mercurial, Bootstrap**
+
 
 ### Responsibilities and Achievements
 - developed a lot of small/middle web projects 
