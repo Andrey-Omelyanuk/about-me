@@ -11,7 +11,7 @@
 - UpWork: https://www.upwork.com/o/profiles/users/_~01b1cfb09d499e00cb/
 
 ###  I specialize in: 
-> Python, Django, Django REST Framework, FastAPI, SQLAlchemy, Celery, SQL, PostgreSQL,Ansible, Docker, JavaScript, TypeScript, Vue, React, Angular, RxJs, MobX.
+    Python, Django, Django REST Framework, FastAPI, SQLAlchemy, Celery, SQL, PostgreSQL,Ansible, Docker, JavaScript, TypeScript, Vue, React, Angular, RxJs, MobX.
 
 ### About 
 I am an experienced senior software developer passionate about automating the world.
@@ -31,7 +31,6 @@ https://www.virtualclarity.com/
 ### Senior / Tech Lead Full Stack Developer
 June 2019 – Dec 2021 (2.5 years)
 
-### Position
     Jun 2021 - Dec 2021 (0.5 years) Tech Lead Frontend Developer 
     Jun 2019 - Jun 2021 (  2 years) Senior Full Stack Developer
 
@@ -56,7 +55,6 @@ The site is not available now but the design is still available [here](https://w
 ### Senior / Team Lead Full Stack Developer
 Sep 2015 – May 2019 (3.7 years)
 
-### Position
     Jun 2016 – May 2019 (2.8 years) Team Lead   Full Stack Developer  
     Sep 2015 – Jun 2016 (0.9 years) Senior      Full Stack Developer
 
@@ -139,7 +137,6 @@ https://www.st.by
 ### Junior/Middle Software Developer
 Oct 2008 - Dec 2012 (4.2 years) 
 
-### Position
     Jan 2010 - Dec 2012 (  3 years)   Middle Software Developer  
     Oct 2008 - Dec 2010 (1.2 years)   Junior Software Developer
 
