@@ -1,8 +1,8 @@
 # Andrey Omelyanuk 
-## Senior Full Stack Developer (Python/TypeScript) 
-- Exp.: over 13 years (sinse Oct 2008) 
+## Tech Lead / Senior Full Stack Developer (Python/TypeScript) 
+- Exp.: over 15 years (sinse Oct 2008) 
 - Legal name: Andrei Amelyaniuk
-- Location: Belarus, Brest
+- Location: Belarus, Brest or Armenia, Yerevan
 - Russian: Native
 - English: Intermediate
 - Email: andreyomelyanuk@gmail.com
@@ -17,15 +17,52 @@ I am an experienced senior software developer passionate about automating the wo
 I enjoy working on projects that allow people to be more productive. 
 I have experience in leading engineering teams as well as developing software
 independently as an individual contributor. 
-I have been working remotely since January 2013 (over 9 years).
-I have been working through Upwork since Oct 2014 (over 7 years) and you can see feedback from my clients.
+I have been working remotely since January 2013 (over 10 years).
+I have been working through Upwork since Oct 2014 and you can see feedback from my clients.
 Also, you can see some smaller projects there that I did not mention here. 
 
 
 # Experience
 
+## Intelas 
+https://intelas.com/
+
+It's SaaS that collects and standardizes property-level data for real estate asset managers and accountants.
+
+I was the first developer hired at the startup. When I left Intelas, the company had 11 developers (including me).
+The company canceled the remote work format and required all developers to relocate to Lisbon, Portugal.
+I was in Portugal for 5 months, but I was very disappointed (very expensive life, high taxes, lots of crime)
+and decided to leave Portugal. Unfortunately this also meant that I had to leave the startup. 
+I am very proud to have built this startup from scratch and I am grateful to everyone I worked with there.
+It was one of the best experiences of my career.
+You can contact [Leonid](https://www.linkedin.com/in/lmovsesyan/) to get personal feedback about me.
+
+**Tech Lead Full Stack Developer**  
+March 2022 – Nov 2023 (1.8 years)
+
+**Python, Django, DRF, SQL, PostgreSQL, Docker, AWS, Typescript, React, MobX, AgGrid, Senty**
+
+### Team
+    11 developers 
+
+### Responsibilities and Achievements
+- led the team
+- interviewed software developers
+- teached the team, for example - how to build UI with MobX
+- built architecture of the project
+- worked on workflow for my team
+- discussed business needs with owners
+- distributed responsibilities between developers
+- 70% of my work hours I had coding also
+
+
 ## Virtual Clarity 
 https://www.virtualclarity.com/
+
+It was SaaS. A lot of companies have old apps and servers.
+Owr goal was help them to migrate to modern solution like a cloud or new servers with fresh version OS. 
+We collected information about the client's infrastructure and provided options for its modernization and calculated the costs for this.
+We built forecast of future expenses of maintain and compared with current expenses.
 
 **Senior / Tech Lead Full Stack Developer**  
 June 2019 – Dec 2021 (2.5 years)
@@ -39,8 +76,11 @@ June 2019 – Dec 2021 (2.5 years)
     5-7 developers
 
 ### Responsibilities and Achievements
-- NDA does not allow me to share more details about what I did.
-    If you are ready to give me an offer but hesitate then I can give you contacts on LinkedIn of ex-teammates that still work in Virtual Clarity.
+- we had separate DB based on MSSQL which was managed and maintained from another team,
+    therefor I used SQLAlchemy for glue Django with the DB, Django ORM don't support MSSQL.
+    Before I joined they used own custom ORM to do it, but it was buggy and featureless.
+- created and optimized complex SQL queries
+- when we started build new UI I had lead frontend. It was based on Angular (we use Django templates before)
 
 
 ## Zig 
