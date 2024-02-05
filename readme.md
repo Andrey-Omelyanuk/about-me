@@ -37,7 +37,7 @@ I am very proud to have built this startup from scratch and I am grateful to eve
 It was one of the best experiences of my career.
 You can contact [Leonid](https://www.linkedin.com/in/lmovsesyan/) to get personal feedback about me.
 
-**Tech Lead Full Stack Developer**  
+**Tech Lead**  
 March 2022 – Nov 2023 (1.8 years)
 
 **Python, Django, DRF, SQL, PostgreSQL, Docker, AWS, Typescript, React, MobX, AgGrid, Senty**
@@ -53,18 +53,18 @@ March 2022 – Nov 2023 (1.8 years)
 - worked on workflow for my team
 - discussed business needs with owners
 - distributed responsibilities between developers
-- 70% of my work hours I had coding also
+- did all things till delegate it to another developer
 
 
 ## Virtual Clarity 
 https://www.virtualclarity.com/
 
 It was SaaS. A lot of companies have old apps and servers.
-Owr goal was help them to migrate to modern solution like a cloud or new servers with fresh version OS. 
+Our goal was help them to migrate to modern solution like a cloud or new servers with fresh version OS. 
 We collected information about the client's infrastructure and provided options for its modernization and calculated the costs for this.
 We built forecast of future expenses of maintain and compared with current expenses.
 
-**Senior / Tech Lead Full Stack Developer**  
+**Tech Lead / Senior Full Stack Developer**  
 June 2019 – Dec 2021 (2.5 years)
 
     Jun 2021 - Dec 2021 (0.5 years) Tech Lead Frontend Developer 
@@ -90,7 +90,7 @@ Zig is startup, its mix of task management and freelance platform.
 The project was 80% completed before I left. 
 The site is not available now but the design is still available [here](https://www.figma.com/file/PE70acTNcIgI1flYCqQUl4KQ/Zig-UI?node-id=791%3A10)
 
-**Senior / Team Lead Full Stack Developer**  
+**Team Lead / Senior Full Stack Developer**  
 Sep 2015 – May 2019 (3.7 years)
 
     Jun 2016 – May 2019 (2.8 years) Team Lead   Full Stack Developer  
