@@ -5,7 +5,7 @@
 - Location: Belarus, Brest or Armenia, Yerevan
 - Russian: Native
 - English: Intermediate
-- Email: andreyomelyanuk@gmail.com
+- Email: omelyanukandrey@gmail.com
 - GitHub: https://github.com/Andrey-Omelyanuk
 - LinkedIn: https://www.linkedin.com/in/andrey-omelyanuk-36904154/
 - UpWork: https://www.upwork.com/o/profiles/users/_~01b1cfb09d499e00cb/
