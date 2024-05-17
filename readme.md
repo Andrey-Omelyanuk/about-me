@@ -2,7 +2,7 @@
 ## Tech Lead / Senior Full Stack Developer (Python/TypeScript) 
 - Exp.: over 15 years (sinse Oct 2008) 
 - Legal name: Andrei Amelyaniuk
-- Location: Belarus, Brest or Armenia, Yerevan
+- Location: Armenia, Yerevan
 - Russian: Native
 - English: Intermediate
 - Email: omelyanukandrey@gmail.com
@@ -10,7 +10,7 @@
 - LinkedIn: https://www.linkedin.com/in/andrey-omelyanuk-36904154/
 - UpWork: https://www.upwork.com/o/profiles/users/_~01b1cfb09d499e00cb/
 
-**Python, Django, Django REST Framework, FastAPI, SQLAlchemy, Celery, SQL, PostgreSQL, Ansible, Docker, JavaScript, TypeScript, Vue, React, Angular, RxJs, MobX**
+**Python, Django, Django REST Framework, FastAPI, SQLAlchemy, Celery, SQL, PostgreSQL, Ansible, Docker, K8S, ArgoCD, Terraform, Helm, JavaScript, TypeScript, Vue, React, Angular, RxJs, MobX**
 
 ### About 
 I am an experienced senior software developer passionate about automating the world.
@@ -40,7 +40,7 @@ You can contact [Leonid](https://www.linkedin.com/in/lmovsesyan/) to get persona
 **Tech Lead**  
 March 2022 – Nov 2023 (1.8 years)
 
-**Python, Django, DRF, SQL, PostgreSQL, Docker, AWS, Typescript, React, MobX, AgGrid, Senty**
+**Python, Django, DRF, SQL, PostgreSQL, Docker, AWS, K8S, Terraform, ArgoCD, Typescript, React, MobX, AgGrid, Senty**
 
 ### Team
     11 developers 
@@ -56,8 +56,7 @@ March 2022 – Nov 2023 (1.8 years)
 - did all things till delegate it to another developer
 
 
-## Virtual Clarity 
-https://www.virtualclarity.com/
+## DXC 
 
 It was SaaS. A lot of companies have old apps and servers.
 Our goal was help them to migrate to modern solution like a cloud or new servers with fresh version OS. 
@@ -70,7 +69,7 @@ June 2019 – Dec 2021 (2.5 years)
     Jun 2021 - Dec 2021 (0.5 years) Tech Lead Frontend Developer 
     Jun 2019 - Jun 2021 (  2 years) Senior Full Stack Developer
 
-**Python, Django, SqlAlchemy, MSSQL, AWS, Docker, Typescript, Angular, RxJs, MobX, AgGrid**
+**Python, Django, SqlAlchemy, MSSQL, AWS, Azure, Docker, K8S, Terraform, Helm, Typescript, Angular, RxJs, MobX, AgGrid**
 
 ### Team
     5-7 developers
