@@ -17,12 +17,22 @@ I am an experienced senior software developer passionate about automating the wo
 I enjoy working on projects that allow people to be more productive. 
 I have experience in leading engineering teams as well as developing software
 independently as an individual contributor. 
-I have been working remotely since January 2013 (over 10 years).
-I have been working through Upwork since Oct 2014 and you can see feedback from my clients.
-Also, you can see some smaller projects there that I did not mention here. 
 
 
 # Experience
+
+
+## ITSOFT | Commit Offshore
+https://www.itsoft.co.il/
+
+**Senior Python Engineer**  
+March 2024 - May 2024 (3 months)
+
+**Python, Django, Django REST framework, AWS**
+
+### Team
+    1-2 developers 
+
 
 ## Intelas 
 https://intelas.com/
@@ -56,7 +66,7 @@ March 2022 – Nov 2023 (1.8 years)
 - did all things till delegate it to another developer
 
 
-## Virtual Clarity 
+## Virtual Clarity
 https://www.virtualclarity.com/
 
 It was SaaS. A lot of companies have old apps and servers.
@@ -91,7 +101,7 @@ The project was 80% completed before I left.
 The site is not available now but the design is still available [here](https://www.figma.com/file/PE70acTNcIgI1flYCqQUl4KQ/Zig-UI?node-id=791%3A10)
 
 **Team Lead / Senior Full Stack Developer**  
-Sep 2015 – May 2019 (3.7 years)
+Sep 2015 – May 2019 (3.7 years) 
 
     Jun 2016 – May 2019 (2.8 years) Team Lead   Full Stack Developer  
     Sep 2015 – Jun 2016 (0.9 years) Senior      Full Stack Developer
