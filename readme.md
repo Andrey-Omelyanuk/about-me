@@ -1,16 +1,16 @@
 # Andrey Omelyanuk 
 ## Tech Lead / Senior Full Stack Developer (Python/TypeScript) 
-- Exp.: over 15 years (sinse Oct 2008) 
+- Exp.: over 16 years (sinse Oct 2008) 
 - Legal name: Andrei Amelyaniuk
-- Location: Belarus, Brest or Armenia, Yerevan
+- Location: Belarus
 - Russian: Native
 - English: Intermediate
 - Email: omelyanukandrey@gmail.com
 - GitHub: https://github.com/Andrey-Omelyanuk
 - LinkedIn: https://www.linkedin.com/in/andrey-omelyanuk-36904154/
-- UpWork: https://www.upwork.com/o/profiles/users/_~01b1cfb09d499e00cb/
+- UpWork: https://www.upwork.com/o/profiles/users/_~01b1cfb09d499e00cb/ 
 
-**Python, Django, Django REST Framework, FastAPI, SQLAlchemy, Celery, SQL, PostgreSQL, Ansible, Docker, JavaScript, TypeScript, Vue, React, Angular, RxJs, MobX**
+**Python, Django, Django REST Framework, FastAPI, SQLAlchemy, Celery, SQL, PostgreSQL, Ansible, Docker, K8s, JavaScript, TypeScript, Vue, React, Angular, RxJs, MobX**
 
 ### About 
 I am an experienced senior software developer passionate about automating the world.
@@ -25,6 +25,16 @@ independently as an individual contributor.
 ## ITSOFT | Commit Offshore
 https://www.itsoft.co.il/
 
+It was a big company with a lot of small projects lasting half a year. 
+I was involved in an advertising project as a main developer. 
+The main problem with this project was the deadline. 
+The deadline was a week after I was hired, 
+but I was able to finish this phase only a month later. 
+I burned out during this month and decided to leave, 
+but I was asked to stay and finish one more phase. 
+And I finished it on time and leave.
+I worked with good people, but tight deadlines and endless overtime were a problem.
+
 **Senior Python Engineer**  
 March 2024 - May 2024 (3 months)
 
@@ -32,6 +42,13 @@ March 2024 - May 2024 (3 months)
 
 ### Team
     1-2 developers 
+
+### Responsibilities and Achievements
+- only back-end development
+- added flexible accounting system for commission of advertising 
+- optimisation of calculations based Django ORM and raw SQL
+- build weekly/monthly reports
+- develop REST API 
 
 
 ## Intelas 
